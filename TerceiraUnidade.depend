@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1689862989 source:c:\users\maurício martins\documents\terceiraunidade\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+	"Interpreter.h"
+	"FiguraGeometrica.h"
+	"Sculptor.h"
+
+1689621904 source:c:\users\maurício martins\documents\terceiraunidade\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<iostream>
+	<cmath>
+
+1689621928 c:\users\maurício martins\documents\terceiraunidade\cutellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689860546 c:\users\maurício martins\documents\terceiraunidade\sculptor.h
+	"Voxel.h"
+
+1689622262 c:\users\maurício martins\documents\terceiraunidade\voxel.h
+
+1689622047 c:\users\maurício martins\documents\terceiraunidade\figurageometrica.h
+	"Sculptor.h"
+
+1689621953 source:c:\users\maurício martins\documents\terceiraunidade\cutsphere.cpp
+	"CutSphere.h"
+	<cmath>
+	<iostream>
+
+1689621975 c:\users\maurício martins\documents\terceiraunidade\cutsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689621999 source:c:\users\maurício martins\documents\terceiraunidade\cutvoxel.cpp
+	"CutVoxel.h"
+	<iostream>
+
+1689622023 c:\users\maurício martins\documents\terceiraunidade\cutvoxel.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689622065 source:c:\users\maurício martins\documents\terceiraunidade\putbox.cpp
+	"PutBox.h"
+	<iostream>
+
+1689622086 c:\users\maurício martins\documents\terceiraunidade\putbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689622106 source:c:\users\maurício martins\documents\terceiraunidade\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<cmath>
+	<iostream>
+
+1689622124 c:\users\maurício martins\documents\terceiraunidade\putellipsoid.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689622145 source:c:\users\maurício martins\documents\terceiraunidade\putsphere.cpp
+	"PutSphere.h"
+	<iostream>
+	<cmath>
+
+1689622163 c:\users\maurício martins\documents\terceiraunidade\putsphere.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689622183 source:c:\users\maurício martins\documents\terceiraunidade\putvoxel.cpp
+	"PutVoxel.h"
+	<iostream>
+
+1689622202 c:\users\maurício martins\documents\terceiraunidade\putvoxel.h
+	"FiguraGeometrica.h"
+	"Sculptor.h"
+
+1689860571 source:c:\users\maurício martins\documents\terceiraunidade\sculptor.cpp
+	<iostream>
+	"Sculptor.h"
+	<fstream>
+	<cmath>
+	<cstdlib>
+	<iomanip>
+
+1689860925 c:\users\maurício martins\documents\terceiraunidade\interpreter.h
+	"FiguraGeometrica.h"
+	<vector>
+	<string>
+
+1689863039 source:c:\users\maurício martins\documents\terceiraunidade\interpreter.cpp
+	"Interpreter.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	"CutBox.h"
+	"CutBox.cpp"
+	"CutEllipsoid.h"
+	"CutSphere.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"PutEllipsoid.h"
+	"PutSphere.h"
+	"PutVoxel.h"
+	"Sculptor.h"
+
+1689621869 c:\users\maurício martins\documents\terceiraunidade\cutbox.h
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+
+1689621844 c:\users\maurício martins\documents\terceiraunidade\cutbox.cpp
+	"CutBox.h"
+
